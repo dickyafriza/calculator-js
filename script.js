@@ -1,5 +1,5 @@
 const calculatorScreen = document.querySelector(".calculator-screen");
-const updateScreen = (number) => {
+const updateScreen = (number,operator) => {
   calculatorScreen.value = number;
 };
 

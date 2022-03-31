@@ -1,14 +1,21 @@
+body{
+  background-image: url("src/bg/bg.jpg");
+   background-repeat: no-repeat;
+   background-size:cover;
+   
+}
 .calculator {
   text-align: center;
   margin: 0 auto;
   padding: 200px 0;
   width: 400px;
+  
 }
 
 .calculator-screen {
   width: 100%;
   height: 100px;
-  background-color: #252525;
+  background-color: #1a1515;
   color: white;
   text-align: right;
   font-size: 36px;
